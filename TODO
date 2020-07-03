@@ -1,6 +1,19 @@
 BigCrush and PractRand:
 http://simul.iro.umontreal.ca/testu01/tu01.html
 
+https://github.com/bryc/code/blob/master/jshash/PRNGs.md
+https://en.wikipedia.org/wiki/List_of_random_number_generators
+https://www.npmjs.com/package/random
 https://en.wikipedia.org/wiki/Middle-square_method
 https://github.com/MersenneTwister-Lab/TinyMT/blob/master/tinymt/tinymt64.c
 https://github.com/MersenneTwister-Lab/TinyMT/blob/master/tinymt/tinymt32.c
+https://en.wikipedia.org/wiki/Lehmer_random_number_generator
+https://en.wikipedia.org/wiki/George_Marsaglia
+http://www.cse.yorku.ca/~oz/marsaglia-rng.html
+https://en.wikipedia.org/wiki/KISS_(algorithm)
+https://en.wikipedia.org/wiki/Linear_congruential_generator
+https://en.wikipedia.org/wiki/Linear-feedback_shift_register
+https://en.wikipedia.org/wiki/ACORN_(PRNG)
+https://en.wikipedia.org/wiki/Xorshift
+https://en.wikipedia.org/wiki/Well_equidistributed_long-period_linear
+https://en.wikipedia.org/wiki/Mersenne_Twister
