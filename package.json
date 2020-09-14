@@ -1,6 +1,6 @@
 {
   "name": "extra-random",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "A random number is a number, chosen as if by chance from a set.",
   "main": "index.js",
   "module": "index.mjs",
