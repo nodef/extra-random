@@ -1,6 +1,6 @@
 {
   "name": "extra-random",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "A random number is a number, chosen as if by chance from a set.",
   "main": "index.js",
   "module": "index.mjs",
@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/nodef/extra-random#readme",
   "devDependencies": {
-    "extra-build": "^1.1.23"
+    "extra-build": "^1.1.27"
   }
 }
