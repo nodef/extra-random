@@ -1,6 +1,6 @@
 {
   "name": "extra-random",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "A random number is a number, chosen as if by chance from a set.",
   "main": "index.js",
   "module": "index.mjs",
@@ -22,7 +22,13 @@
   },
   "keywords": [
     "extra",
-    "random"
+    "random",
+    "middleSquare",
+    "middleSquare32",
+    "middleSquareWeylSequence",
+    "tinyMt32",
+    "tinyMt64",
+    "XorshiftAdd32"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",
@@ -31,6 +37,6 @@
   },
   "homepage": "https://github.com/nodef/extra-random#readme",
   "devDependencies": {
-    "extra-build": "^1.1.27"
+    "extra-build": "^1.1.28"
   }
 }
